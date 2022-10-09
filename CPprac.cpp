@@ -62,13 +62,13 @@ int main ( ){
 
    }
 
-   else cout<< 0;
+   else cout<<0;
 
    i=0;
 
-   while(arr[i]>=0) {
+   while(arr[i]>=0){
 
-       cout<<arr[i] <<" " ;
+       cout<<arr[i] <<"--" ;
 
        i++ ;
 
